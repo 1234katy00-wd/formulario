@@ -15,11 +15,12 @@ form{
 
 h1{
     color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
 label{
     color: aliceblue;
-    font: 20px sans-serif;
+    font: 15px sans-serif;
     
 }
 
